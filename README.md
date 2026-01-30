@@ -1,3 +1,5 @@
+<img width="476" height="198" alt="image" src="https://github.com/user-attachments/assets/1a3692cb-8e90-457e-9926-14593047dce0" />
+
 # Deps
 [extern/discord_social_sdk](https://discord.com/developers/applications/select/social-sdk/downloads) (use the standalone c++ version) <br>
 [extern/steam](https://partner.steamgames.com/downloads/list) <br>
