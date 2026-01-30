@@ -1,0 +1,9 @@
+# Ignore builds
+build
+
+extern/steam
+extern/steamSDK
+extern/steam_bin
+extern/discord_social_sdk
+
+.vscode
